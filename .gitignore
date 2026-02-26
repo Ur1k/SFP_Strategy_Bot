@@ -1,0 +1,19 @@
+# Ignore virtual environments
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment variables
+.env
+
+# Ignore logs
+*.log
+trade_log.csv
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore backup files
+*.txt
